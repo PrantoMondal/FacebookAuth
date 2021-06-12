@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547572414504",
+    "project_id": "facebookauth-a80ce",
+    "storage_bucket": "facebookauth-a80ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547572414504:android:ac32261c9965c2b6989d1d",
+        "android_client_info": {
+          "package_name": "com.prantomondal.facebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547572414504-a0vgclj61j6fmi0gpji6uoh1g90i4b6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prantomondal.facebookauth",
+            "certificate_hash": "4f36e4a11008468db12d02b4e0affe5937dfc703"
+          }
+        },
+        {
+          "client_id": "547572414504-5h2ajh7qrp6jeuoc3avd6hsvlubr93gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvT_5ZRfBSMA5toPQa9yVHTLPFs0NhQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547572414504-5h2ajh7qrp6jeuoc3avd6hsvlubr93gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
