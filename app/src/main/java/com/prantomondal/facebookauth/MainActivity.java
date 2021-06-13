@@ -99,6 +99,18 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void openProfile() {
+        startActivity(new Intent(this,ProfileActivity.class));
+        finish();
 
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+
+        if(auth.getCurrentUser() != null){
+
+            openProfile();
+        }
     }
 }

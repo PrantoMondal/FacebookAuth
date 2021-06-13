@@ -27,6 +27,7 @@
         android:textStyle="bold"
         android:layout_marginLeft="24dp"/>
     <Button
+        android:id="@+id/logout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="24dp"
